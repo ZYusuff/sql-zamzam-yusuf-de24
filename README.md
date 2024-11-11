@@ -1,1 +1,1 @@
-# sql-zamzam-yusuf-de24
+# SQL course using duckdb
